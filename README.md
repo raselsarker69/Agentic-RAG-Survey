@@ -6,20 +6,7 @@
   <strong>Overview of Agentic RAG</strong>
 </p>
 <br><br>
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://img.shields.io/github/stars/asinghcsu/AgenticRAG-Survey?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/asinghcsu/AgenticRAG-Survey?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/watchers/asinghcsu/AgenticRAG-Survey?style=social" alt="GitHub watchers">
-</p>
 
-<p>
-  <img src="./assets/new.png" alt="New Update" width="50" style="vertical-align: middle;">
-  <strong>Recent Update (2025-02-04):</strong>
-</p>
-
-> Check section 4 in the table of contents in this repo for the new **Agentic Workflow Patterns**.
-> New images have been added to enhance the **Overview of Agentic RAG**. The <a href="https://arxiv.org/pdf/2501.09136">paper</a> is also updated.
 
 <!-- 
 This repository accompanies the paper "Agentic Retrieval-Augmented Generation : A Survey On Agentic RAG," providing supplementary materials, visualizations, and insights into the taxonomy, applications, and challenges of Agentic RAG systems. The goal is to facilitate understanding and adoption of these advanced paradigms by researchers and practitioners. -->
@@ -674,4 +661,47 @@ If you find this work useful in your research, please cite:
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2501.09136}, 
 }
+```
+
+---
+
+## License
+This repository is licensed under the MIT License. Feel free to use and modify the code as needed.
+
+---
+
+## Author
+**Md. Rasel Sarker**  
+Email: [rasel.sarker6933@gmail.com](mailto:rasel.sarker6933@gmail.com)  
+
+<br>
+<h1 align="left">
+ <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> 🌐 Connect with Me:</h2>
+</h1>
+
+<p align="center">
+  <a href="mailto:rasel.sarker6933@gmail.com"><img src="https://img.shields.io/badge/Email-rasel.sarker6933@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/raselsarker69"><img src="https://img.shields.io/badge/GitHub-%40Raselsarker-lightgrey?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/rasel-sarker-405160227/"><img src="https://img.shields.io/badge/LinkedIn-Rasel%20Sarker-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.facebook.com/mdrasel.sarker.7773631"><img src="https://img.shields.io/badge/Facebook-%40Raselsarker-blue?style=flat-square&logo=facebook"></a>
+  <a href="https://www.kaggle.com/mdraselsarker"><img src="https://img.shields.io/badge/Kaggle-%40Raselsarker-blue?style=flat-square&logo=kaggle"></a>
+  <a href="https://www.youtube.com/@raselsarker69"><img src="https://img.shields.io/badge/YouTube-Rasel%20Sarker-red?style=flat-square&logo=youtube"></a>
+  <a href="https://www.facebook.com/groups/832585175685301"><img src="https://img.shields.io/badge/Facebook%20Group-Rasel%20Sarker%20Group-blue?style=flat-square&logo=facebook"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Phone-%2B8801581528651-green?style=flat-square&logo=whatsapp">
+</p>
  
+
+---
+
+<div align="center">
+
+Thank you for visiting my repository. I hope these projects inspire and guide your learning journey!
+
+---
+
+Feel free to explore, learn, and build upon these projects. Happy coding!<br>
+
+&copy; 2025 Computer vision Projects
+
+</div>
